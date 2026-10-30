@@ -1,0 +1,9 @@
+{
+  "name": "Namma Rakshane (ನಮ್ಮ ರಕ್ಷಣೆ)",
+  "description": "AI-powered emergency reporting and response coordination for Bengaluru, India. Every report matters. Every second matters.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
